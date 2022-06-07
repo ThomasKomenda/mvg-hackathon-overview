@@ -2,18 +2,18 @@
   "resources": [
     {
       "title": "Registration",
-      "desc": "Register here for the 3rd Gaia-X Hackathon on March 28-29.",
-      "url": "https://online2.superoffice.com/Cust26633/CS/scripts/customer.fcgi?action=formFrame&formId=F-buhKosWT"
+      "desc": "Register here for the 4th Gaia-X Hackathon on June 20-21.",
+      "url": "https://online2.superoffice.com/Cust26633/CS/scripts/customer.fcgi?action=formFrame&formId=F-kXc7da9h"
     },
     {
       "title": "Hackathon Overview",
-      "desc": "GitLab entrypoint for the 3rd Gaia-X hackathon. Find milestones, issues and other related activities here.",
-      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3"
+      "desc": "GitLab entrypoint for the 4th Gaia-X hackathon. Find milestones, issues and other related activities here.",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4"
     },
     {
       "title": "🗓 Schedule & Agenda",
-      "desc": "Overview of the tracks and their sessions scheduled on March 28-29",
-      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-3/-/wikis/GX-Hackathon-3"
+      "desc": "Overview of the tracks and their sessions scheduled on June 20-21",
+      "url": "https://gitlab.com/gaia-x/gaia-x-community/gx-hackathon/gx-hackathon-4/-/wikis/GX-Hackathon-4"
     },
     {
       "title": "Gaia-X Trust Framework",
